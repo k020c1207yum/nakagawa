@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
 from PIL import Image
 from streamlit.elements.image import UseColumnWith
 
